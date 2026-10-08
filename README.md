@@ -2,7 +2,6 @@
 
 **< About Me >**
 * **Affiliation**: B.S. in Artificial Intelligence, Hanyang University ERICA
-* **Passion**: Deeply passionate about AI, committed to building solid fundamentals in both theory and practice to grow as a proactive developer.
 
 ---
 
@@ -20,6 +19,6 @@
 ---
 
 **< Tech Stack >**
-**Language**: Python (Primary), C, Java, R
-**Database & Query**: SQL
-**Environment**: Git, GitHub, VS Code
+* **Language**: Python (Primary), C, Java, R
+* **Database & Query**: SQL
+* **Environment**: Git, GitHub, VS Code
