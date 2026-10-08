@@ -1,16 +1,25 @@
-## Hi there 👋
-my name is “은호“(eunho)
-<!--
-**neh1104/neh1104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there 👋 my name is Eunho (은호)
 
-Here are some ideas to get you started:
+**< About Me >**
+* **Affiliation**: B.S. in Artificial Intelligence, Hanyang University ERICA
+* **Passion**: Deeply passionate about AI, committed to building solid fundamentals in both theory and practice to grow as a proactive developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+**< NOW I'm studying >**
+1. Ml / Dl : 
+2. Coding Test : Committing to **1 coding test per day** 
+3. Linear Algebra :
+
+---
+
+**< I'm intersted in >**
+1. Autonomous Driving & LLM
+2. LLM Optimization
+
+---
+
+**< Tech Stack >**
+**Language**: Python (Primary), C, Java, R
+**Database & Query**: SQL
+**Environment**: Git, GitHub, VS Code
