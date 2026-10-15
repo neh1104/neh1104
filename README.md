@@ -19,6 +19,6 @@
 ---
 
 **< Tech Stack >**
-* **Language**: *Python (Primary)*, C, Java, R
+* **Language**: __Python (Primary)__, C, Java, R
 * **Database & Query**: SQL
 * **Environment**: Git, GitHub, VS Code
