@@ -1,4 +1,5 @@
-## Hi there 👋 my name is Eunho (은호)
+## Hi there 👋 
+## This Eunho (은호)
 
 **< About Me >**
 * **Affiliation**: B.S. in Artificial Intelligence, Hanyang University ERICA
