@@ -7,7 +7,8 @@
 
 **< NOW I'm studying >**
 1. Ml / Dl : 
-2. Coding Test : Committing to **1 coding test per day** 
+2. Coding Test : Committing to **1 coding test per day**
+   - now : 168+ days
 3. Linear Algebra :
 
 ---
